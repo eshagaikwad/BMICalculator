@@ -1,0 +1,7 @@
+D:\DotNet\16th july\PocOnThis\PocOnThis\bin\Debug\PocOnThis.exe.config
+D:\DotNet\16th july\PocOnThis\PocOnThis\bin\Debug\PocOnThis.exe
+D:\DotNet\16th july\PocOnThis\PocOnThis\bin\Debug\PocOnThis.pdb
+D:\DotNet\16th july\PocOnThis\PocOnThis\obj\Debug\PocOnThis.csproj.AssemblyReference.cache
+D:\DotNet\16th july\PocOnThis\PocOnThis\obj\Debug\PocOnThis.csproj.CoreCompileInputs.cache
+D:\DotNet\16th july\PocOnThis\PocOnThis\obj\Debug\PocOnThis.exe
+D:\DotNet\16th july\PocOnThis\PocOnThis\obj\Debug\PocOnThis.pdb
