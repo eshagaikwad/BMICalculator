@@ -1,0 +1,7 @@
+D:\DotNet\16th july\PocOnEnums\PocOnEnums\bin\Debug\PocOnEnums.exe.config
+D:\DotNet\16th july\PocOnEnums\PocOnEnums\bin\Debug\PocOnEnums.exe
+D:\DotNet\16th july\PocOnEnums\PocOnEnums\bin\Debug\PocOnEnums.pdb
+D:\DotNet\16th july\PocOnEnums\PocOnEnums\obj\Debug\PocOnEnums.csproj.AssemblyReference.cache
+D:\DotNet\16th july\PocOnEnums\PocOnEnums\obj\Debug\PocOnEnums.csproj.CoreCompileInputs.cache
+D:\DotNet\16th july\PocOnEnums\PocOnEnums\obj\Debug\PocOnEnums.exe
+D:\DotNet\16th july\PocOnEnums\PocOnEnums\obj\Debug\PocOnEnums.pdb
